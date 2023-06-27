@@ -1,15 +1,11 @@
+# SpaceWars
 
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-   
-  </a>
+Goal of the Space Wars game is to get a high score by shooting as many alien ships as possible. The faster ships on the higher levels give more points.
 
+Space Wars is the first game written from scratch in Python and Pygame by Dan Petersson.
+It has no relation to original "Space Wars" game from 1977. 
 
-  <p align="center">
-  <h2> DADS6005 Final Project Data Streaming and Real-Time Analytics <br /><br />
-   Korawee Peerasantikul 6420422007 <br />Kruawun Jankaew 6420422016 <br />Pimchayanan Kusontramas 6420422018<br />Sorawit Sinlapanurak 6420422020 <br />Napat Phongvichian 6420422022 </h2>
-    <br />
-    <p style="font-size: 36px;"><a href="https://youtu.be/AgDnCktOHWY"><strong>Video Presentation »</strong></a></p>
-    <br />
-  </p>
-</div>
+Written and tested on:
+Windows 10,
+Python  3.8,
+Pygame  1.9.6
